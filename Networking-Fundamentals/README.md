@@ -20,4 +20,4 @@ This folder contains my networking notes, practical exercises, commands, trouble
 
 ## Status
 
-🟢 In Progress
+🟢 Completed
