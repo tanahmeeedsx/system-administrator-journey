@@ -175,6 +175,6 @@ Successfully built and deployed a Windows Server enterprise lab capable of manag
 
 **Tanjim Ahmed Tomal**
 
-Computer Engineering Graduate
+Computer Engineering Student
 
 Aspiring System Administrator | Network Engineer | IT Support Specialist
