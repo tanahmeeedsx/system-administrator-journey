@@ -1,4 +1,4 @@
-# 🏢 CrazyHub Windows Server Enterprise Lab
+# 🏢 CrazyHub Enterprise Infrastructure – Windows Server 2022 Lab
 
 ## 📌 Project Overview
 
