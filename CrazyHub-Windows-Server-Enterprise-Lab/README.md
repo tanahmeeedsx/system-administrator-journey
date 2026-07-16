@@ -118,8 +118,6 @@ Windows 11 client successfully:
 
 # 📷 Project Screenshots
 
-## 📷 Project Screenshots
-
 ### 1. Windows Server Manager
 ![Server Manager](01_Server_Manager.png)
 
@@ -186,7 +184,7 @@ Through this project I gained practical experience in:
 
 # 📈 Project Outcome
 
-Successfully built and deployed a Windows Server enterprise lab capable of managing users, computers, network services, and centralized authentication similar to a real-world small business environment.
+Successfully designed, deployed, and validated a complete Windows Server 2022 enterprise lab environment featuring Active Directory, DNS, DHCP, Group Policy, Domain Services, and centralized file sharing. The project simulates a real-world small office infrastructure and demonstrates hands-on experience in Windows Server administration and enterprise network management.
 
 ---
 
@@ -194,6 +192,6 @@ Successfully built and deployed a Windows Server enterprise lab capable of manag
 
 **Tanjim Ahmed Tomal**
 
-Computer Engineering Student
+Computer Engineering Graduate
 
 Aspiring System Administrator | Network Engineer | IT Support Specialist
