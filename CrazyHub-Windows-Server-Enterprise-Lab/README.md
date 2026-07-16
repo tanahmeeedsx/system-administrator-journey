@@ -118,18 +118,37 @@ Windows 11 client successfully:
 
 # 📷 Project Screenshots
 
-The repository includes screenshots demonstrating:
+## 📷 Project Screenshots
 
-* Windows Server Manager
-* Active Directory Users and Computers
-* DNS Configuration
-* Reverse Lookup Zone
-* DHCP Scope
-* DHCP Address Leases
-* Client IP Configuration
-* DNS Resolution
-* Domain Authentication
-* Shared Folder Access
+### 1. Windows Server Manager
+![Server Manager](01_Server_Manager.png)
+
+### 2. Active Directory Users and Computers
+![Active Directory](03_Active_Directory.png)
+
+### 3. DNS Forward Lookup Zone
+![DNS Forward](04_DNS_Forward.png)
+
+### 4. DNS Reverse Lookup Zone
+![DNS Reverse](06_DNS_Reverse.png)
+
+### 5. DHCP Scope
+![DHCP Scope](05_DHCP_Scope.png)
+
+### 6. DHCP Address Lease
+![DHCP Lease](07_DHCP_Lease.png)
+
+### 7. Client IP Configuration
+![IPConfig](08_IPConfig.png)
+
+### 8. DNS Resolution
+![NSLookup](09_NSLookup.png)
+
+### 9. Domain Authentication
+![WhoAmI](10_WhoAmI.png)
+
+### 10. Shared Folder Access
+![Shared Folder](02_Shared_Folder.png)
 
 ---
 
